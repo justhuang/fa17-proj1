@@ -18,7 +18,8 @@ I passed the current trainer into the redirect to. The path needed is to access 
 If the pokemon is not saved to the database, then an error is instead flashed to the top of the page.
 
 
-# Give us feedback on the project and decal below!
+# Give us feedback on the project and decal below
 
 # Extra credit: Link your Heroku deployed app
+https://rails-decal-pokemon.herokuapp.com/
 
